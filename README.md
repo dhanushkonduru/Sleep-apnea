@@ -1,6 +1,6 @@
 # Sleep Apnea Detection System
 
-A medical-grade web application for detecting sleep apnea events from audio recordings using machine learning.
+A medical-grade web application for detecting sleep apnea events from audio recordings using machine learning. 
 
 ## 🚀 Features
 
